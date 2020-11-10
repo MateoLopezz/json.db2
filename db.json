@@ -1,0 +1,32 @@
+{
+    "cursos": [
+    {
+        "id": 1,
+        "title": "React desde cero",
+        "img": "https://edteam-media.s3.amazonaws.com/courses/original/f7dad9a6-e060-4305-9adf-b9a9079075de.jpg",
+        "price": "$25 USD",
+        "profesor": "Wilfredo Gomez"
+    },
+    {
+        "id": 2,
+        "title": "Angular Avanzado",
+        "img": "https://descargacursosweb.files.wordpress.com/2019/05/banner-1.jpg",
+        "price": "$30 USD",
+        "profesor": "Armando Barreda"
+    },
+    {
+        "id": 3,
+        "title": "CSS en profundidad" ,
+        "img": "https://www.solucionex.com/sites/default/files/posts/imagen/css_blog.png",
+        "price": "$25 USD",
+        "profesor": "Iñigo montoya"
+    },
+    {
+        "id": 4,
+        "title":"Introducción a HTML5" ,
+        "img": "https://formaciononline.eu/wp-content/uploads/2015/05/curso-html5.jpg",
+        "price": "$10 USD",
+        "profesor": "Arnoldo uwu"
+    }
+]
+}
