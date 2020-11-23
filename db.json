@@ -8,7 +8,8 @@
         "price": "$25 USD",
         "description":"Zapatilla de Plataforma Rayada en cuero ecológico liso blanco o negro con cordonera, la plataforma característica de esta zapatilla es de 4 cm. de altura en toda la base. Contiene una base de goma antideslizante  y en su interior esta forrada con textil y guata para su mayor confort. Plantillas anatómicas que se adaptan al caminar.",
         "material": "Cuero ecológico",
-        "color": "Blanco - Negro"        
+        "color": "Blanco - Negro",
+        "sku":20
     },
     {
         "id": 2,
@@ -18,7 +19,8 @@
         "price": "$30 USD",
         "description":"Zapatillas ultralivianas elastizadas Piccadilly de cuero ecológico de excelente calidad, con un peso Ultra-Liviano, plantillas super inteligentes que brindan comodidad en todo momento al caminar. Es un producto excelente para personas que sufren dolores en los pies, ya que como todos los productos Piccadilly la tecnología incorporada en sus plantillas permiten liviandad, comodidad y estabilidad en todo momento.",
         "material":"Cuero Ecológico",
-        "Color":"Negro - Plateado"
+        "Color":"Negro - Plateado",
+        "sku":20
     },
     {
         "id": 3,
@@ -27,7 +29,8 @@
         "brand": "Piccadilly",
         "price": "$25 USD",
         "description":"Zapatillas de neoprene beige con cámara de aire y elástico. De excelente calidad. Tiene 2 cm en la parte del talón y 1 cm adelante. Tecnologia SoftStep: Esta tecnología desarrollada por Piccadilly proporciona una amortiguación distribuida uniformemente en la planta del pie, reduciendo los picos de presión que causan molestias y sensibilidad con el uso prolongado.",
-        "color":"Negro - Beige"
+        "color":"Negro - Beige",
+        "sku":20
     },
     {
         "id": 4,
@@ -36,7 +39,8 @@
         "img": "https://brenda.com.ar/wp-content/uploads/2020/06/MARA-GAMU.jpg",
         "price": "$18 USD",
         "description":"Botitas Clasica Mara con capellada de cuero vacuno totalmente forrada en el interior en un textil estampado con espuma que acolchona la botita y base de TR, goma antideslizante y flexible.",
-        "color": "Negro - Beige - Rojo"
+        "color": "Negro - Beige - Rojo",
+        "sku":20
     }
 ]
 }
